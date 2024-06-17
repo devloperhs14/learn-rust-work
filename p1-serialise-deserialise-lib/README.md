@@ -2,5 +2,5 @@
 
 IN ANY LINUX CONSOLE RUN COMMAND:
 ```
-cargo add reqwest -F blocking
+RUST_BACKTRACE=1 cargo run
 ```
